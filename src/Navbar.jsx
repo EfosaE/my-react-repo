@@ -3,7 +3,7 @@ import {useState, useEffect} from 'react'
 import Links from "./Links";
 import { RiMenuLine } from "react-icons/ri";
 import {RxCross2} from 'react-icons/rx'
-import SocialLinks from "./socialLinks";
+import SocialLinks from "./SocialLinks";
 import {links, social} from './data'
 
 const Navbar = () => {
